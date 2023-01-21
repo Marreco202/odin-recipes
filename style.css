@@ -1,0 +1,12 @@
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+}
+
+
+.title {
+    text-align: center;
+}
