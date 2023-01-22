@@ -1,0 +1,17 @@
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+
+.title {
+    text-align: center;
+    font: 100px;
+}
+
+* {
+    font-family: monospace ;
+}
